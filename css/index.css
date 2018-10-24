@@ -1,0 +1,52 @@
+#geral{
+	background-color: #FFFFFF;
+	text-align: center;
+    font-family: 'Karla', sans-serif;
+}
+
+#superior{
+    background-color: #03DAC5;
+    left: 100px;
+    right: 100px;
+    top: 0px;
+    padding: 10px 10px;
+    border: 1.5px solid black;
+    border-radius: 10px 20px 20px;
+}
+
+ul#menu{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+li a#menu {
+    display: block;
+    color: black;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 20;
+}
+
+li#menu{
+    float: left;
+    text-align: center;
+}
+
+ul{
+    list-style-type: square;
+}
+
+.topicos{
+    font-size: 20;
+    background-color: #6200EE;
+    margin: 30px;
+    padding: 10px 10px;
+    border-radius: 10px 20px 20px;
+    border: 1.5px solid black;
+}
+
+.topicos#quemSouEu{
+    margin-top: 70px;
+    padding-top: 50px;
+}
+
