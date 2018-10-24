@@ -1,5 +1,5 @@
 #geral{
-	background-color: #FFFFFF;
+	background-color: black;
 	text-align: center;
     font-family: 'Karla', sans-serif;
     color: black;
@@ -11,8 +11,8 @@
     right: 100px;
     top: 0px;
     padding: 10px 10px;
-    border: 1.5px solid black;
-    border-radius: 10px 20px 20px;
+    border: 0.5px solid white;
+    border-radius: 10px 10px 10px;
 }
 
 #menu{
@@ -30,8 +30,8 @@ ul{
     background-color: #6200EE;
     margin: 30px;
     padding: 10px 10px;
-    border-radius: 10px 20px 20px;
-    border: 1.5px solid black;
+    border-radius: 10px 10px 10px;
+    border: 0.5px solid white;
 }
 
 .topicos#quemSouEu{
